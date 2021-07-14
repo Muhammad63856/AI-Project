@@ -11,4 +11,4 @@ StdID | Name
 
 
 ## Screenshot of Submission ##
-![](As02/submissionssai.png)
+![](As02/submissionssai.PNG)

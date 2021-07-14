@@ -11,4 +11,4 @@ StdID | Name
 
 
 ## Screenshot of Submission ##
-![](As02/submissionssai.PNG)
+![submissionssai](https://user-images.githubusercontent.com/68788484/125651554-1540667a-b1e5-43d6-9899-a7b9f5f7102b.PNG)

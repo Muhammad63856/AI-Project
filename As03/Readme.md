@@ -7,4 +7,5 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 ## Description ##
-Findings: We randomized numbers on Excel between 0 and 1 for all passengers ID and submitted it on kaggle. We did this several times with different sets of randomized 0 and 1, and got the accuracy around 0.52.  
+We first manually removed the text based columns from both the excel files and then we imported the features of both the excel columns into our Python program. We also installed panda library and sklearn library so we could use pandas and multinomial naive bayes algorithm on our data.
+Finding: We found that there was an apparent improvement in our prediction result because of the implementation of scikit learn and naive bayes algorithm. We think we can improve the result of the prediction if we apply more algorithms and cross validate the findings.

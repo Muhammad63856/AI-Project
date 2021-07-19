@@ -30,6 +30,7 @@ After wokring with the first two models, we moved on to the last one and we pick
 
 
 **Screenshot of Linear Regression submission prediction:**
+![subLRai](https://user-images.githubusercontent.com/68788484/126234473-502f8156-0cdf-473a-8e06-c69597c9fe61.PNG)
 
 
 

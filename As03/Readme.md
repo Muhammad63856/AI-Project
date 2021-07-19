@@ -19,8 +19,11 @@ First model that we applied on our data was SVM classification. We imported the 
 
 
 
-**Finding 2: Deep impact of sklearn and Naive Bayes**  
-We did not think that implementing sklearn or multinomial Naive Bayes is important to get the desired results with high accuracy, so we first made our submissions without using sklearn or NB. The results that we got were undesirable and the accuracy rates were also not very appealing. Thus, we used sklearn and multiomial NB on the data and there was a noticable improvement in the results and we got an important insight that applying algorithms on data is really important.  
+**Finding 2: kNN Classification**  
+After tweaking with SVM, we moved on to working with kNN. We decided to change some things before applying kkN in our dataset. The first thing we changed was that, instead of filling empty age cells with Nan values, we first calculated the average of all the oassenger classes and then filled the empty age cells with that average. We did the same with Fare and Embarked column. Then instead of dropping the text based columns, we dropped the columns: Pclass, PassengerID, Parch and SibSp. And we imported the Age, Fare, Sex and Embarked features to our python code file. Then we set different numbers of K neighbors: five, seventeen and nineteen. After that we applied kNN classification on our test and train data and produced a submission file. Afterwards, we posted the file on Kaggle and we got similar results as SVM classfication, even though we anticipated that we would get higher accuracy.
+
+**Screenshot of SVM submission prediction:**
+
 
 **Insight 3: Competition**  
 Honestly, before this assignment we had no idea what Kaggle was. This assignment opened a whole new world to us of online programming competitions. We got really excited to see that there are so many competitions on the website that we never heard of before.

@@ -28,6 +28,5 @@ After tweaking with SVM, we moved on to working with kNN. We decided to change s
 **Insight 3: Competition**  
 Honestly, before this assignment we had no idea what Kaggle was. This assignment opened a whole new world to us of online programming competitions. We got really excited to see that there are so many competitions on the website that we never heard of before.
 
-## Screenshot of Submission ##
-![sub2ai](https://user-images.githubusercontent.com/68788484/126193214-143aec5a-c766-4d44-8b07-ac5b3d8e5029.PNG)
+
 

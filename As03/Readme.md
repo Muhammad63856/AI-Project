@@ -11,8 +11,10 @@ Firstly, we downloaded all the required files from Kaggle. Then we removed the t
 
 ## Findings ##  
 
-**Finding 1: Various accuracy rates**  
-The first insight that we gained was that, upon running our test data on different algorithms and models we got varying accuracy rates. This surprised us, becuase we thought that changing the algorithms will not affect the result that much.  
+**Finding 1: SVM Classification**  
+First model that we applied on our data was SVM classification. We imported the libraries of SVM in our python coding file and then went ahead with the coding. We expected to get high result, but surprisingly we only got around 0.622. This low result motivated us to move on to the two other models to get a much better result. 
+**Screenshot of SVM submission prediction:**
+
 
 **Finding 2: Deep impact of sklearn and Naive Bayes**  
 We did not think that implementing sklearn or multinomial Naive Bayes is important to get the desired results with high accuracy, so we first made our submissions without using sklearn or NB. The results that we got were undesirable and the accuracy rates were also not very appealing. Thus, we used sklearn and multiomial NB on the data and there was a noticable improvement in the results and we got an important insight that applying algorithms on data is really important.  

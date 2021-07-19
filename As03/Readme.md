@@ -9,3 +9,7 @@ StdID | Name
 ## Description ##
 We first manually removed the text based columns from both the excel files and then we imported the features of both the excel columns into our Python program. We also installed panda library and sklearn library so we could use pandas and multinomial naive bayes algorithm on our data.
 Finding: We found that there was an apparent improvement in our prediction result because of the implementation of scikit learn and naive bayes algorithm. We think we can improve the result of the prediction if we apply more algorithms and cross validate the findings.
+
+## Screenshot of Submission ##
+![sub2ai](https://user-images.githubusercontent.com/68788484/126193214-143aec5a-c766-4d44-8b07-ac5b3d8e5029.PNG)
+

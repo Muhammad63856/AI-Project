@@ -25,8 +25,12 @@ After tweaking with SVM, we moved on to working with kNN. We decided to change s
 **Screenshot of kNN submission prediction:**
 ![subKnnai](https://user-images.githubusercontent.com/68788484/126226441-bb313f84-5592-48e6-982f-11af4188418c.PNG)
 
-**Insight 3: Competition**  
-Honestly, before this assignment we had no idea what Kaggle was. This assignment opened a whole new world to us of online programming competitions. We got really excited to see that there are so many competitions on the website that we never heard of before.
+**Finding 3: Linear Regression**  
+After wokring with the first two models, we moved on to the last one and we picked Linear Regression as linear classifier. We did the same thing as kNN, we filled the empty spaces of the Age, Embarked and Fare columns with their averages. Then after splitting the train and test data, we applied the data on Linear Regression and produced a submission file and then uploaded it on Kaggle. And finally, we got much higher accuracy than the first two models. We got a result value of around 0.7. Therefore, we would conclude by stating that according to our findings, Linear Regression is the best model out of the three and filling empty spaces with the mean values did have a positive effect on the overall result.
+
+
+**Screenshot of Linear Regression submission prediction:**
+
 
 
 

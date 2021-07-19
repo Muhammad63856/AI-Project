@@ -13,7 +13,10 @@ Firstly, we downloaded all the required files from Kaggle. Then we removed the t
 
 **Finding 1: SVM Classification**  
 First model that we applied on our data was SVM classification. We imported the libraries of SVM in our python coding file and then went ahead with the coding. We expected to get high result, but surprisingly we only got around 0.622. This low result motivated us to move on to the two other models to get a much better result. 
+
 **Screenshot of SVM submission prediction:**
+![submissionSvmp](https://user-images.githubusercontent.com/68788484/126211072-b094f9b5-7542-45d2-96ae-12abaf20d4e9.PNG)
+
 
 
 **Finding 2: Deep impact of sklearn and Naive Bayes**  
